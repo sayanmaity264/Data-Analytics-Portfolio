@@ -12,5 +12,3 @@ This folder contains my Microsoft Excel projects.
 
 ## Projects
 - Sales Dashboard
-- HR Dashboard
-- Coffee Shop Sales Dashboard
